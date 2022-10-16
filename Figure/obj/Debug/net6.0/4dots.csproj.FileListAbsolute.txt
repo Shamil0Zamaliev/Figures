@@ -1,0 +1,15 @@
+G:\Study\Code_projects_1course\4dots\bin\Debug\net6.0\4dots.exe
+G:\Study\Code_projects_1course\4dots\bin\Debug\net6.0\4dots.deps.json
+G:\Study\Code_projects_1course\4dots\bin\Debug\net6.0\4dots.runtimeconfig.json
+G:\Study\Code_projects_1course\4dots\bin\Debug\net6.0\4dots.dll
+G:\Study\Code_projects_1course\4dots\bin\Debug\net6.0\4dots.pdb
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.csproj.AssemblyReference.cache
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.AssemblyInfoInputs.cache
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.AssemblyInfo.cs
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.csproj.CoreCompileInputs.cache
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.dll
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\refint\4dots.dll
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.pdb
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\4dots.genruntimeconfig.cache
+G:\Study\Code_projects_1course\4dots\obj\Debug\net6.0\ref\4dots.dll
